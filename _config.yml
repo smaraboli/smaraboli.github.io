@@ -6,3 +6,12 @@ url: https://smaraboli.github.io/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+aux_links_new_tab: true
+
+logo: "/assets/images/square.png"
+favicon: "/assets/images/favicon.ico"
+
+search_enabled: false
+
+color_scheme: dark
