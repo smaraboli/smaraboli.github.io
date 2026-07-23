@@ -4,3 +4,4 @@ layout: home
 ---
 
 Hi!
+[Link to home](\).
