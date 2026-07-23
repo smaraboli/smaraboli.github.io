@@ -1,5 +1,6 @@
 ---
-title: Home
+title: Hogar
 layout: home
 permalink: /es/
 ---
+hogar
