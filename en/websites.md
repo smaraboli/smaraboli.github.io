@@ -1,5 +1,5 @@
 ---
-title: About
+title: Websites
 layout: home
 permalink: /pages
 ---
