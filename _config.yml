@@ -9,6 +9,8 @@ aux_links:
 
 aux_links_new_tab: true
 
+opens_in_new_tab: true
+
 logo: "/assets/images/square.png"
 favicon: "/assets/images/favicon.ico"
 
